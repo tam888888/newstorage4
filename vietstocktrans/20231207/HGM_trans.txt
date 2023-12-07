@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HGM",131625,"/Date(1701929785000)/",47000,400,400,18800000,1000,false,2.17

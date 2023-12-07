@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BTG","10:16:50",8,-0.1,100,100,

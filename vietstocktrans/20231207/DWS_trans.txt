@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DWS",105830,"/Date(1701921540000)/",12000,4000,4000,48000000,400,false,3.45

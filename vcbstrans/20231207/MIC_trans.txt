@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MIC","14:59:53",13.5,0.5,100,100,

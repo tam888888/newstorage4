@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155873550,"NFC","1701921279","b","100","14000","100","2023-12-07T03:54:40.457Z","2023-12-07T03:54:40.457Z"

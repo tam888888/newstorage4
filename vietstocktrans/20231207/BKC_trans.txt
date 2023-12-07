@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BKC",103628,"/Date(1701920188000)/",7100,100,100,710000,100,false,1.43

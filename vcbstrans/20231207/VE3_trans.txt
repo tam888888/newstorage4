@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VE3","14:18:56",12.3,-1.3,100,100,

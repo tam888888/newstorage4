@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DRG",141247,"/Date(1701933180000)/",6200,1000,3100,19220000,0,false,0
+"DRG",141043,"/Date(1701933060000)/",6200,1500,2100,13020000,0,true,0
+"DRG",95646,"/Date(1701917820000)/",6200,600,600,3720000,0,true,0

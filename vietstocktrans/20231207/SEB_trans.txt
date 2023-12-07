@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SEB",104505,"/Date(1701920704000)/",43500,100,422,18072200,700,false,1.64
+"SEB",104445,"/Date(1701920685000)/",42800,22,322,13722200,0,false,0
+"SEB",93735,"/Date(1701916655000)/",42800,200,300,12840000,0,false,0
+"SEB",92351,"/Date(1701915831000)/",42800,100,100,4280000,0,false,0

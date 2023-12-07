@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BSD","09:55:24",19.2,-6.8,500,500,

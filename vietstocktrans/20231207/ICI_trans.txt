@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ICI",145920,"/Date(1701935940000)/",8400,200,300,2420000,1000,false,13.51
+"ICI",145012,"/Date(1701935400000)/",7400,100,100,740000,0,false,0

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155519015,"CCM","1701915057","b","100","37800","100","2023-12-07T02:10:59.420Z","2023-12-07T02:10:59.420Z"

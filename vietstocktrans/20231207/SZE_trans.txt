@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SZE",144346,"/Date(1701935040000)/",11900,1,201,2340800,-100,false,-0.83
+"SZE",102209,"/Date(1701919320000)/",11900,100,200,2330000,-100,false,-0.83
+"SZE",94000,"/Date(1701916800000)/",11400,100,100,1140000,-600,true,-5

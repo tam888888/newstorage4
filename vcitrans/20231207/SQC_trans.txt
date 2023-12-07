@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156230286,"SQC","1701934723","b","100","5900","100","2023-12-07T07:38:44.646Z","2023-12-07T07:38:44.646Z"

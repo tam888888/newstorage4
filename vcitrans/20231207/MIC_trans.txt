@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156231649,"MIC","1701935992","b","100","13500","100","2023-12-07T07:59:53.677Z","2023-12-07T07:59:53.677Z"

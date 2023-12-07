@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VAF","10:32:37",12.8,0,100,100,"B"
