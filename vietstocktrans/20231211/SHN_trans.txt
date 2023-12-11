@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SHN",92244,"/Date(1702261364000)/",6800,100,100,680000,-100,true,-1.45

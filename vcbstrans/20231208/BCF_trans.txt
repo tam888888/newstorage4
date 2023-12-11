@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"BCF","13:06:47",30,0,400,500,
+"BCF","13:06:12",30,0,100,100,

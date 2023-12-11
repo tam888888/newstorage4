@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VTH",92304,"/Date(1702261384000)/",10100,100,100,1010000,-1100,false,-9.82

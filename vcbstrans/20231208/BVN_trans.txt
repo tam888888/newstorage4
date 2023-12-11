@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BVN","14:53:42",12.5,-1.9,3000,3000,

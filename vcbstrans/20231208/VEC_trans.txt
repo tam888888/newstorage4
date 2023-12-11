@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VEC","10:13:11",8.7,0,500,500,

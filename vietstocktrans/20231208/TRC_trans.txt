@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TRC",105747,"/Date(1702007885000)/",31450,1200,6300,197000000,600,false,1.94
+"TRC",105747,"/Date(1702007885000)/",31450,100,5100,160000000,600,false,1.94
+"TRC",105740,"/Date(1702007877000)/",31400,5000,5000,157000000,550,false,1.78

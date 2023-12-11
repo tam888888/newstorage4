@@ -1,0 +1,7 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"upcom:75670",24700,300,1800,"14:56:15",24400,"bu",300,1.2,"U","LeTable"
+"upcom:75670",24600,900,1500,"14:39:40",24400,"bu",200,0.8,"U","LeTable"
+"upcom:75670",24700,100,600,"14:08:13",24400,"bu",300,1.2,"U","LeTable"
+"upcom:75670",24700,200,500,"14:04:18",24400,"bu",300,1.2,"U","LeTable"
+"upcom:75670",24700,200,300,"14:04:07",24400,"bu",300,1.2,"U","LeTable"
+"upcom:75670",24700,100,100,"14:03:42",24400,"bu",300,1.2,"U","LeTable"

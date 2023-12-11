@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SEA",103709,"/Date(1702265820000)/",23200,10,310,7183000,900,false,4.04
+"SEA",95955,"/Date(1702263600000)/",23200,300,300,6960000,900,false,4.04

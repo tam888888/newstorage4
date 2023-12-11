@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"E29","13:00:04",4.3,-0.1,1300,1300,

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156662543,"C21","1702022268","unknown","100","12500","100","2023-12-08T07:57:51.011Z","2023-12-08T07:57:51.011Z"

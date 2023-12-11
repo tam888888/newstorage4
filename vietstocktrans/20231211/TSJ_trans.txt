@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TSJ",92245,"/Date(1702261380000)/",37800,200,200,7560000,-5600,false,-12.9

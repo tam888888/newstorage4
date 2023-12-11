@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DRL","14:45:00",69.7,2.7,100,100,

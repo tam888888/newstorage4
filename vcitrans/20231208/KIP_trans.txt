@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156358965,"KIP","1702006438","s","100","10000","100","2023-12-08T03:33:59.839Z","2023-12-08T03:33:59.839Z"

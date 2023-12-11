@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GDW",140713,"/Date(1702278433000)/",32500,300,406,13181200,2300,true,7.62
+"GDW",110126,"/Date(1702267286000)/",32500,6,106,3431200,2300,false,7.62
+"GDW",104507,"/Date(1702266307000)/",32500,100,100,3250000,2300,false,7.62

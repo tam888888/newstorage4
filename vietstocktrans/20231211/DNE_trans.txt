@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DNE",95613,"/Date(1702263360000)/",8800,500,1800,15840000,0,false,0
+"DNE",92412,"/Date(1702261440000)/",8800,1000,1300,11440000,0,false,0
+"DNE",91636,"/Date(1702261020000)/",8800,300,300,2640000,0,true,0

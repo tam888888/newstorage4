@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156240035,"HES","1702001928","s","600","21600","600","2023-12-08T02:18:50.688Z","2023-12-08T02:18:50.688Z"

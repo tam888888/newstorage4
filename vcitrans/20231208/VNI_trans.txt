@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156536006,"VNI","1702018874","b","1000","8900","1000","2023-12-08T07:01:15.923Z","2023-12-08T07:01:15.923Z"

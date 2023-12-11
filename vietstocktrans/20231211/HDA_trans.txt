@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HDA",144506,"/Date(1702280700000)/",4800,600,900,4370000,-200,true,-4
+"HDA",142909,"/Date(1702279749000)/",5000,100,300,1490000,0,false,0
+"HDA",134831,"/Date(1702277310000)/",4900,100,200,990000,-100,false,-2
+"HDA",94804,"/Date(1702262884000)/",5000,100,100,500000,0,false,0

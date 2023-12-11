@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156539419,"MLS","1702018972","unknown","1000","11400","1500","2023-12-08T07:02:52.918Z","2023-12-08T07:02:52.918Z"
+156338589,"MLS","1702005374","unknown","500","11500","500","2023-12-08T03:16:14.827Z","2023-12-08T03:16:14.827Z"

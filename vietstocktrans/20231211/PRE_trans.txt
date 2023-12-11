@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PRE",140251,"/Date(1702278171000)/",18300,100,200,3630000,0,false,0
+"PRE",131736,"/Date(1702275456000)/",18000,100,100,1800000,-300,false,-1.64

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GMX",100245,"/Date(1702004565000)/",18900,100,100,1890000,0,false,0

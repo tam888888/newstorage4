@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TS3",100913,"/Date(1702004940000)/",4800,100,200,930000,500,false,11.63
+"TS3",94304,"/Date(1702003380000)/",4500,100,100,450000,200,true,4.65

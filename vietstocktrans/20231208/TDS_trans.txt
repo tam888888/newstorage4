@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TDS",101813,"/Date(1702005480000)/",9900,100,200,1990000,100,true,1.02
+"TDS",95451,"/Date(1702004100000)/",10000,100,100,1000000,200,false,2.04

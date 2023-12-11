@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GMX","10:02:45",18.9,0,100,100,

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VAV",110901,"/Date(1702008540000)/",39500,100,200,7890000,600,false,1.54
+"VAV",110833,"/Date(1702008540000)/",39400,100,100,3940000,500,false,1.29

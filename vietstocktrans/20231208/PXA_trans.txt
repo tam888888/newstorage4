@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PXA",131716,"/Date(1702016220000)/",1100,900,5900,6490000,0,false,0
+"PXA",95226,"/Date(1702003920000)/",1100,1000,5000,5500000,0,false,0
+"PXA",94740,"/Date(1702003680000)/",1100,4000,4000,4400000,0,false,0

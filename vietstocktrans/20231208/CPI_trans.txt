@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CPI",93150,"/Date(1702002720000)/",2800,100,101,282500,300,false,12

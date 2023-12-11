@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CMI",130456,"/Date(1702015500000)/",1700,200,3100,5960000,-300,true,-15
+"CMI",130448,"/Date(1702015500000)/",1800,900,2900,5620000,-200,true,-10
+"CMI",92511,"/Date(1702002300000)/",2000,2000,2000,4000000,0,true,0

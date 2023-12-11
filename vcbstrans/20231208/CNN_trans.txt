@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CNN","10:56:42",39.8,0,100,100,

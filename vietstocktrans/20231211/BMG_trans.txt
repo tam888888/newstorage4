@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BMG",145700,"/Date(1702281420000)/",22400,100,100,2240000,2900,false,14.87

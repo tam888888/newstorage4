@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AVC",140321,"/Date(1702018980000)/",55000,5,205,11275000,1700,false,3.19
+"AVC",111212,"/Date(1702008720000)/",55000,100,200,11000000,1700,false,3.19
+"AVC",110247,"/Date(1702008180000)/",55000,100,100,5500000,1700,false,3.19

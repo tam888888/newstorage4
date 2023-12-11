@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CHS","10:33:37",9.6,-0.4,600,600,

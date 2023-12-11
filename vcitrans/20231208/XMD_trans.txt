@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156428457,"XMD","1702015393","b","300","7400","300","2023-12-08T06:03:14.945Z","2023-12-08T06:03:14.945Z"

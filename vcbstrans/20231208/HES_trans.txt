@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HES","09:18:49",21.6,2.7,600,600,

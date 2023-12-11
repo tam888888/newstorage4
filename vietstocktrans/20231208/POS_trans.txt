@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"POS",141226,"/Date(1702019520000)/",12500,400,1000,12500000,100,true,0.81
+"POS",140949,"/Date(1702019400000)/",12500,500,600,7500000,100,true,0.81
+"POS",104719,"/Date(1702007220000)/",12500,100,100,1250000,100,false,0.81

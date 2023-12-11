@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156423755,"CEG","1702015216","s","5500","10000","5500","2023-12-08T06:00:19.149Z","2023-12-08T06:00:19.149Z"

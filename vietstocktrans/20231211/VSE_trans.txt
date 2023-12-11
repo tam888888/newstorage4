@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VSE",141802,"/Date(1702279080000)/",6500,1300,1500,9760000,-200,true,-2.99
+"VSE",133917,"/Date(1702276740000)/",6600,100,200,1310000,-100,false,-1.49
+"VSE",132522,"/Date(1702275900000)/",6500,100,100,650000,-200,true,-2.99

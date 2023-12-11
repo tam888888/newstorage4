@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"S55",103721,"/Date(1702265841000)/",47000,100,300,14040000,-300,true,-0.63
+"S55",91825,"/Date(1702261105000)/",46700,200,200,9340000,-600,false,-1.27

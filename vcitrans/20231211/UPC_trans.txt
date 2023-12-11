@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156663316,"UPC","1702260133","b","200","24900","200","2023-12-11T02:02:15.519Z","2023-12-11T02:02:15.519Z"

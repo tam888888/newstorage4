@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TDB",141308,"/Date(1702019580000)/",39000,900,1001,39039000,0,true,0
+"TDB",130843,"/Date(1702015740000)/",39000,1,101,3939000,0,true,0
+"TDB",112511,"/Date(1702009500000)/",39000,100,100,3900000,0,true,0

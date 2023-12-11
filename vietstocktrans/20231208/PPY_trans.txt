@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PPY",140735,"/Date(1702019255000)/",9100,1000,1000,9100000,0,true,0

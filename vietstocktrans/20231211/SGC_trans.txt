@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGC",95932,"/Date(1702263572000)/",70900,100,100,7090000,1000,false,1.43

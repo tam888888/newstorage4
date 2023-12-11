@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HVT",140333,"/Date(1702019013000)/",47500,200,200,9500000,400,true,0.85

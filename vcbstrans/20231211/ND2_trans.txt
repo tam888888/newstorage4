@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ND2","10:24:00",31,0.5,100,100,

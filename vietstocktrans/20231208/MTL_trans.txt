@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MTL",145340,"/Date(1702022040000)/",4800,100,100,480000,200,false,4.35

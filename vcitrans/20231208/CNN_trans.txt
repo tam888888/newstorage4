@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+156388576,"CNN","1702007802","s","100","39800","100","2023-12-08T03:56:43.877Z","2023-12-08T03:56:43.877Z"

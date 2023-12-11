@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"UPC",90213,"/Date(1702260120000)/",24900,200,200,4980000,3200,true,14.75

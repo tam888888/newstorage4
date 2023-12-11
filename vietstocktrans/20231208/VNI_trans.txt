@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VNI",140114,"/Date(1702018860000)/",8900,1000,1000,8820000,300,false,3.49
