@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157209332,"SID","1702361651","s","8500","12300","8500","2023-12-12T06:14:12.345Z","2023-12-12T06:14:12.345Z"

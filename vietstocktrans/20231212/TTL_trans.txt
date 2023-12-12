@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TTL",104052,"/Date(1702352452000)/",7400,1500,5010,37528000,-800,true,-9.76
+"TTL",104029,"/Date(1702352429000)/",7500,1000,3510,26428000,-700,true,-8.54
+"TTL",102812,"/Date(1702351692000)/",7400,2500,2510,18928000,-800,true,-9.76

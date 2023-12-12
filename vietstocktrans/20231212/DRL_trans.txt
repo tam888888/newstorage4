@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DRL",131855,"/Date(1702361969000)/",66500,100,100,6000000,-3200,true,-4.59

@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157343931,"SDC","1702367123","s","300","9300","300","2023-12-12T07:45:26.406Z","2023-12-12T07:45:26.406Z"
+157343007,"SDC","1702366313","unknown","0","9300","0","2023-12-12T07:31:54.388Z","2023-12-12T07:31:54.388Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157084846,"HTC","1702349373","unknown","100","20600","100","2023-12-12T02:49:35.157Z","2023-12-12T02:49:35.157Z"

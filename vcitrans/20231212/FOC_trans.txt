@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157087074,"FOC","1702349480","unknown","100","67000","100","2023-12-12T02:51:21.148Z","2023-12-12T02:51:21.148Z"

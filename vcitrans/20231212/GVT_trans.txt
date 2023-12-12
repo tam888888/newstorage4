@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157030969,"GVT","1702346934","s","100","62100","100","2023-12-12T02:08:55.106Z","2023-12-12T02:08:55.106Z"

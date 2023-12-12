@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TR1","10:38:10",11.9,1.5,500,500,

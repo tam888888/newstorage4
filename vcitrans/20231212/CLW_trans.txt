@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157031811,"CLW","1702347290","unknown","100","37050","0","2023-12-12T02:15:03.212Z","2023-12-12T02:15:03.212Z"

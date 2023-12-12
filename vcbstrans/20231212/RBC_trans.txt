@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"RBC","09:09:25",5.2,-0.1,100,100,

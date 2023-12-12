@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CTT",141726,"/Date(1702365446000)/",17000,100,300,5100000,1500,false,9.68
+"CTT",135938,"/Date(1702364378000)/",17000,100,200,3400000,1500,false,9.68
+"CTT",135852,"/Date(1702364332000)/",17000,100,100,1700000,1500,false,9.68

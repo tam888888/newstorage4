@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BDG",112815,"/Date(1702355280000)/",27100,700,919,25026300,-400,true,-1.45
+"BDG",111822,"/Date(1702354680000)/",27800,100,219,6056300,300,false,1.09
+"BDG",94755,"/Date(1702349280000)/",27500,100,119,3276300,0,false,0

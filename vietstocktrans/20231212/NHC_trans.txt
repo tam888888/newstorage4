@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NHC",144513,"/Date(1702367101000)/",29100,100,200,5820000,-3200,true,-9.91
+"NHC",105837,"/Date(1702353517000)/",29100,100,100,2910000,-3200,false,-9.91

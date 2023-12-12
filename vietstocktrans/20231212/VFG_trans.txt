@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VFG",142127,"/Date(1702365728000)/",36300,100,500,18000000,-300,false,-0.82
+"VFG",141841,"/Date(1702365560000)/",36300,100,400,14000000,-300,true,-0.82
+"VFG",135644,"/Date(1702364241000)/",36600,300,300,10000000,0,false,0

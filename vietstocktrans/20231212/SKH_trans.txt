@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SKH",145756,"/Date(1702367880000)/",28300,300,500,14120000,600,false,2.17
+"SKH",145500,"/Date(1702367700000)/",28200,100,200,5630000,500,false,1.81
+"SKH",145441,"/Date(1702367700000)/",28100,100,100,2810000,400,false,1.44

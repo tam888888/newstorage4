@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DSG",143423,"/Date(1702366440000)/",4400,1400,9000,39400000,0,false,0
+"DSG",143218,"/Date(1702366320000)/",4400,300,7600,33240000,0,true,0
+"DSG",143054,"/Date(1702366260000)/",4400,7300,7300,31920000,0,true,0

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HJS",144513,"/Date(1702367101000)/",33000,800,1100,36098000,1800,false,5.77
+"HJS",111945,"/Date(1702354784000)/",33500,100,300,9698000,2300,false,7.37
+"HJS",111252,"/Date(1702354371000)/",32000,100,200,6348000,800,true,2.56

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157344128,"PDV","1702367371","b","100","10700","100","2023-12-12T07:49:32.405Z","2023-12-12T07:49:32.405Z"

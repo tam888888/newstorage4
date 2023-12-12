@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SVT",144425,"/Date(1702367101000)/",11250,100,400,4000000,-350,false,-3.02
+"SVT",111503,"/Date(1702354528000)/",10900,200,300,3000000,-700,true,-6.03
+"SVT",93206,"/Date(1702348339000)/",11450,100,100,1000000,-150,false,-1.29

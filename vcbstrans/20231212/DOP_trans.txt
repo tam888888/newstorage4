@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DOP","13:25:15",13,-0.7,100,100,

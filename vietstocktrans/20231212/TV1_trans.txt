@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TV1",112128,"/Date(1702354860000)/",17900,100,1200,21820000,200,true,1.13
+"TV1",92823,"/Date(1702348080000)/",18200,1000,1100,20030000,500,false,2.82
+"TV1",91243,"/Date(1702347180000)/",18300,100,100,1830000,600,false,3.39

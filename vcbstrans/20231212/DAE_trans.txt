@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DAE","14:28:45",13.7,0.1,300,300,

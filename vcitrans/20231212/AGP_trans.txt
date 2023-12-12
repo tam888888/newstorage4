@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157343383,"AGP","1702367073","unknown","100","25000","100","2023-12-12T07:44:34.407Z","2023-12-12T07:44:34.407Z"

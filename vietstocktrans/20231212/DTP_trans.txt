@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DTP",100838,"/Date(1702350540000)/",141000,100,100,14100000,2500,false,1.81

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157161914,"CMF","1702353484","unknown","200","185500","200","2023-12-12T03:58:05.219Z","2023-12-12T03:58:05.219Z"
