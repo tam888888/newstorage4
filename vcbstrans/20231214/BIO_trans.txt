@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"BIO","14:21:20",20,0,200,300,
+"BIO","13:52:19",20,0,100,100,

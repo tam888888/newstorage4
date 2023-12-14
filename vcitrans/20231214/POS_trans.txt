@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158127614,"POS","1702538593","s","500","12400","500","2023-12-14T07:23:15.649Z","2023-12-14T07:23:15.649Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTV",141306,"/Date(1702537980000)/",4300,1100,1700,7310000,0,true,0
+"PTV",130608,"/Date(1702533960000)/",4300,100,600,2580000,0,true,0
+"PTV",95156,"/Date(1702522320000)/",4300,500,500,2150000,0,true,0

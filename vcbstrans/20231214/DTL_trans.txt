@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DTL","09:15:00",16.2,0.2,400,400,

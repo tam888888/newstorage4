@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158027103,"PCE","1702535895","b","100","19900","100","2023-12-14T06:38:17.445Z","2023-12-14T06:38:17.445Z"

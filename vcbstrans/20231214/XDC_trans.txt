@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"XDC","13:09:47",60.7,-10.5,100,100,

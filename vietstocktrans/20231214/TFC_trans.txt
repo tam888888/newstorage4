@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TFC",144552,"/Date(1702539903000)/",7600,100,1900,14440000,100,false,1.33
+"TFC",130339,"/Date(1702533819000)/",7600,200,1800,13680000,100,true,1.33
+"TFC",130311,"/Date(1702533791000)/",7600,1600,1600,12160000,100,true,1.33

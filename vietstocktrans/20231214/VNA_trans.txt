@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VNA",143226,"/Date(1702539120000)/",20100,10,1010,20140000,300,false,1.52
+"VNA",130123,"/Date(1702533600000)/",20100,300,1000,19970000,300,true,1.52
+"VNA",130050,"/Date(1702533600000)/",20100,700,700,13940000,300,false,1.52

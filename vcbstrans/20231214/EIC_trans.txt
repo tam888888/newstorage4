@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"EIC","13:34:26",24.8,1.2,700,700,

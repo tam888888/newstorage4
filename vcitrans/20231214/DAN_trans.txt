@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157939883,"DAN","1702525830","unknown","800","29000","800","2023-12-14T03:50:32.238Z","2023-12-14T03:50:32.238Z"

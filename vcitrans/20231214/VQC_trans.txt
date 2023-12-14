@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158160401,"VQC","1702540164","s","100","14000","100","2023-12-14T07:49:26.460Z","2023-12-14T07:49:26.460Z"

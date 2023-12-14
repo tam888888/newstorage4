@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HUG","09:10:26",39.4,2.4,100,100,

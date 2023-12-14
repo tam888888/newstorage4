@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CSM",144423,"/Date(1702539900000)/",11700,1000,2100,24000000,-250,true,-2.09
+"CSM",101314,"/Date(1702523606000)/",11950,100,1100,12000000,0,false,0
+"CSM",100331,"/Date(1702523022000)/",11700,1000,1000,11000000,-250,false,-2.09

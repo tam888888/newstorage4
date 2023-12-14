@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"RTB",131101,"/Date(1702534260000)/",18800,400,500,9400000,200,false,1.08
+"RTB",102751,"/Date(1702524480000)/",18800,100,100,1880000,200,false,1.08

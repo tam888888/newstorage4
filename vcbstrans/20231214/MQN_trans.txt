@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MQN","10:18:07",23.7,-0.3,100,100,

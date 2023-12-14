@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SMN",103714,"/Date(1702525033000)/",13000,1000,3000,39000000,0,false,0
+"SMN",102330,"/Date(1702524210000)/",13000,1000,2000,26000000,0,false,0
+"SMN",94402,"/Date(1702521841000)/",13000,1000,1000,13000000,0,true,0

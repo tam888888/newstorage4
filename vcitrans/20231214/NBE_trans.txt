@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+157798555,"NBE","1702519867","unknown","3500","12000","3500","2023-12-14T02:11:10.167Z","2023-12-14T02:11:10.167Z"

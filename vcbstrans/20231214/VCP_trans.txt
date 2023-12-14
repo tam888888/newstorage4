@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VCP","10:41:04",22.5,-0.1,100,100,

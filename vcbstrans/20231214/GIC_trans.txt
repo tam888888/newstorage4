@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GIC","09:20:14",14.4,-0.5,100,100,

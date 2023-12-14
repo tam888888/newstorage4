@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TKU",144547,"/Date(1702539902000)/",11200,300,300,3360000,900,false,8.74

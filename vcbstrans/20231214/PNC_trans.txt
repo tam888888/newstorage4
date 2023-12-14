@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"PNC","13:01:52",8.46,-0.5,100,100,"B"

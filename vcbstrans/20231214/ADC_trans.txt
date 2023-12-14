@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ADC","14:21:57",17.5,0,200,200,

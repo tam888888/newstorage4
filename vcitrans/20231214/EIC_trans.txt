@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158023023,"EIC","1702535666","b","700","24800","700","2023-12-14T06:34:28.413Z","2023-12-14T06:34:28.413Z"
