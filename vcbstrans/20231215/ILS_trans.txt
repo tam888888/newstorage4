@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ILS","09:00:02",11.7,0.8,300,300,

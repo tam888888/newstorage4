@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VCX","11:25:14",4.2,-0.7,100,100,

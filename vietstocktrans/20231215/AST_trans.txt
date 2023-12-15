@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AST",144438,"/Date(1702626300000)/",50500,100,400,20000000,0,true,0
+"AST",134004,"/Date(1702622421000)/",50200,100,300,15000000,-300,true,-0.59
+"AST",110908,"/Date(1702613358000)/",50000,200,200,10000000,-500,true,-0.99

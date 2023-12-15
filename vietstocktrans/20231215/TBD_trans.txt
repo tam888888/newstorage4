@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TBD",142302,"/Date(1702624980000)/",87900,1000,1700,149430000,-15400,false,-14.91
+"TBD",100534,"/Date(1702609560000)/",87900,100,700,61530000,-15400,false,-14.91
+"TBD",94459,"/Date(1702608300000)/",87900,600,600,52740000,-15400,false,-14.91

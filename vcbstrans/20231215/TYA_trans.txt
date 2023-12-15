@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TYA","14:45:08",10.2,0,100,100,

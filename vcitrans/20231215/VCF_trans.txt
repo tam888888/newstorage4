@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158163080,"VCF","1702606490","unknown","300","194900","0","2023-12-15T02:15:04.970Z","2023-12-15T02:15:04.970Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LO5",145935,"/Date(1702627200000)/",1000,100,2082,1883800,0,false,0
+"LO5",131715,"/Date(1702621020000)/",900,82,1982,1783800,-100,true,-10
+"LO5",95337,"/Date(1702608840000)/",900,1900,1900,1710000,-100,true,-10

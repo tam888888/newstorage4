@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158518692,"TIE","1702625182","b","100","6300","100","2023-12-15T07:26:24.199Z","2023-12-15T07:26:24.199Z"

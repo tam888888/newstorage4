@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158486338,"QNW","1702624264","b","200","7100","200","2023-12-15T07:11:06.190Z","2023-12-15T07:11:06.190Z"

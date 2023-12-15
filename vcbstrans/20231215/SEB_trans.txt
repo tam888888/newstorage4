@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SEB","13:23:07",42.1,-1.9,1200,1200,

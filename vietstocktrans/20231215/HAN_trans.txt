@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HAN",145126,"/Date(1702626660000)/",10400,100,705,7332000,0,false,0
+"HAN",142501,"/Date(1702625100000)/",10400,5,605,6292000,0,false,0
+"HAN",142207,"/Date(1702624920000)/",10400,600,600,6240000,0,false,0

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158382543,"HIG","1702621291","b","200","8000","200","2023-12-15T06:21:33.140Z","2023-12-15T06:21:33.140Z"

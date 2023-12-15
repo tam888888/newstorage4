@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KCB",95526,"/Date(1702608900000)/",7400,1500,3500,25100000,0,false,0
+"KCB",95423,"/Date(1702608840000)/",7000,1000,2000,14000000,-400,false,-5.41
+"KCB",92707,"/Date(1702607220000)/",7000,1000,1000,7000000,-400,true,-5.41

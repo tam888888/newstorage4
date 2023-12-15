@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CQN","09:19:00",29.8,-0.1,200,200,

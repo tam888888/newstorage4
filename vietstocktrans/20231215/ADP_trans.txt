@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ADP",130327,"/Date(1702620222000)/",18950,200,700,13000000,-150,false,-0.79
+"ADP",130006,"/Date(1702620007000)/",18950,300,500,9000000,-150,false,-0.79
+"ADP",101211,"/Date(1702609938000)/",19000,200,200,3000000,-100,false,-0.52

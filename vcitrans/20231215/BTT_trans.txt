@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158205353,"BTT","1702607960","s","100","29000","100","2023-12-15T02:39:34.978Z","2023-12-15T02:39:34.978Z"

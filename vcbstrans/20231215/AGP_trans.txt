@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"AGP","11:00:31",25.6,-0.2,100,100,

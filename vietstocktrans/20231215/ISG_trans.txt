@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ISG",131020,"/Date(1702620600000)/",2600,100,200,480000,200,false,8.33
+"ISG",94111,"/Date(1702608060000)/",2200,100,100,220000,-200,true,-8.33

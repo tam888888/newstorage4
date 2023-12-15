@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LIX",101309,"/Date(1702609994000)/",51000,200,500,25000000,500,false,0.99
+"LIX",93556,"/Date(1702607760000)/",51000,200,300,15000000,500,false,0.99
+"LIX",93556,"/Date(1702607760000)/",50900,100,100,5000000,400,false,0.79

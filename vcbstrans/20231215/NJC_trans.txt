@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NJC","14:57:36",17.1,-1.9,1000,1000,

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158321071,"ICC","1702613963","s","200","24100","200","2023-12-15T04:19:24.059Z","2023-12-15T04:19:24.059Z"

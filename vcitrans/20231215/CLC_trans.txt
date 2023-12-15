@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158164798,"CLC","1702606576","b","400","37500","0","2023-12-15T02:16:29.957Z","2023-12-15T02:16:29.957Z"

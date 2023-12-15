@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CLC","09:16:29",37.5,0,400,400,"S"

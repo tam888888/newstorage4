@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PBT",140507,"/Date(1702623900000)/",7500,5000,5000,37500000,-500,false,-6.25

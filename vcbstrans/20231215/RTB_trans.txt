@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"RTB","10:59:29",18,-0.8,500,500,

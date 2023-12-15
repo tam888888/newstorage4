@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PGI",135402,"/Date(1702623263000)/",24950,100,700,16000000,1150,false,4.83
+"PGI",135252,"/Date(1702623191000)/",24000,100,600,14000000,200,false,0.84
+"PGI",134753,"/Date(1702622892000)/",23800,500,500,11000000,0,false,0

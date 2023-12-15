@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158309108,"CPC","1702613614","b","100","17000","100","2023-12-15T04:13:36.049Z","2023-12-15T04:13:36.049Z"

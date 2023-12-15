@@ -1,0 +1,4 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"upcom:69636",400,1800,2200,"13:00:06",400,"sd",0,0,"R","LeTable"
+"upcom:69636",400,100,400,"09:32:43",400,"bu",0,0,"R","LeTable"
+"upcom:69636",400,300,300,"09:20:49",400,"unknown",0,0,"R","LeTable"

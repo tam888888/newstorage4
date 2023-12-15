@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VDL",91420,"/Date(1702606460000)/",16000,100,300,4800000,0,true,0
+"VDL",91414,"/Date(1702606454000)/",16000,100,200,3200000,0,true,0
+"VDL",90119,"/Date(1702605634000)/",16000,100,100,1600000,0,false,0

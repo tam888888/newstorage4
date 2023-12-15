@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"UEM",131013,"/Date(1702620600000)/",10000,600,1100,10940000,600,false,6.38
+"UEM",130944,"/Date(1702620600000)/",10000,400,500,4940000,600,false,6.38
+"UEM",130015,"/Date(1702620000000)/",9400,100,100,940000,0,false,0

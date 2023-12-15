@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DNW",130647,"/Date(1702620420000)/",27500,200,200,5500000,500,false,1.85
