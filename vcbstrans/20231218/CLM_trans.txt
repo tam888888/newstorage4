@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CLM","09:31:40",56.5,0,300,300,

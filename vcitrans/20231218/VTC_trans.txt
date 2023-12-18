@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158698123,"VTC","1702879213","unknown","200","8900","200","2023-12-18T06:00:18.038Z","2023-12-18T06:00:18.038Z"

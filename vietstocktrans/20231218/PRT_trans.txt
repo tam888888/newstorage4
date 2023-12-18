@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PRT",140950,"/Date(1702883400000)/",10400,1000,3000,31600000,-200,false,-1.89
+"PRT",131453,"/Date(1702880100000)/",10600,800,2000,21200000,0,true,0
+"PRT",130715,"/Date(1702879620000)/",10600,1200,1200,12720000,0,false,0

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SWC",133617,"/Date(1702881360000)/",23500,1700,1700,39950000,0,true,0

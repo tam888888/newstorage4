@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158722881,"MAS","1702880281","unknown","100","26200","100","2023-12-18T06:18:03.041Z","2023-12-18T06:18:03.041Z"

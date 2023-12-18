@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HEJ",143703,"/Date(1702885020000)/",11400,600,1700,19310000,0,false,0
+"HEJ",142221,"/Date(1702884120000)/",11400,400,1100,12470000,0,false,0
+"HEJ",105839,"/Date(1702871940000)/",11300,700,700,7910000,-100,true,-0.88

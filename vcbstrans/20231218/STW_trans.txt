@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"STW","13:57:38",18.7,2.4,100,100,

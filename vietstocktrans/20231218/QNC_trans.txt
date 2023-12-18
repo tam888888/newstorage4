@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"QNC",135613,"/Date(1702882560000)/",8000,100,473,3757500,0,false,0
+"QNC",132132,"/Date(1702880520000)/",8100,100,373,2957500,100,false,1.25
+"QNC",105900,"/Date(1702871940000)/",8000,100,273,2147500,0,true,0
+"QNC",101342,"/Date(1702869240000)/",8000,100,173,1347500,0,false,0

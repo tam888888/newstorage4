@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ACS",91120,"/Date(1702865460000)/",6900,100,100,690000,100,true,1.47

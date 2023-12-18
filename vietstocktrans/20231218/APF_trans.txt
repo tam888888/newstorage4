@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"APF",145945,"/Date(1702886400000)/",55100,3000,4000,220600000,-800,true,-1.43
+"APF",145725,"/Date(1702886220000)/",55200,800,1000,55300000,-700,false,-1.25
+"APF",141539,"/Date(1702883760000)/",55700,200,200,11140000,-200,false,-0.36

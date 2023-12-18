@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FDC",144418,"/Date(1702885500000)/",16900,2000,2000,33000000,-100,true,-0.59

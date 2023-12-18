@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DNL",104649,"/Date(1702871220000)/",26100,100,100,2610000,-4500,true,-14.71

@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158831552,"TFC","1702884213","unknown","1500","8100","1800","2023-12-18T07:23:35.087Z","2023-12-18T07:23:35.087Z"
+158796868,"TFC","1702882770","unknown","300","8000","300","2023-12-18T06:59:31.069Z","2023-12-18T06:59:31.069Z"

@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAR",134403,"/Date(1702881840000)/",34500,100,600,20700000,0,false,0
+"CAR",130645,"/Date(1702879620000)/",34500,200,500,17250000,0,false,0
+"CAR",112423,"/Date(1702873440000)/",34500,100,300,10350000,0,false,0
+"CAR",92107,"/Date(1702866060000)/",34500,200,200,6900000,0,false,0

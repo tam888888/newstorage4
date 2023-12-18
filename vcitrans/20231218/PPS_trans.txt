@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158718723,"PPS","1702880169","unknown","100","10500","1100","2023-12-18T06:16:12.060Z","2023-12-18T06:16:12.060Z"
+158540291,"PPS","1702865316","unknown","1000","10500","1000","2023-12-18T02:08:37.808Z","2023-12-18T02:08:37.808Z"

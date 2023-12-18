@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HNI",112601,"/Date(1702873560000)/",21000,200,600,12600000,-200,false,-0.94
+"HNI",112533,"/Date(1702873560000)/",21000,400,400,8400000,-200,true,-0.94

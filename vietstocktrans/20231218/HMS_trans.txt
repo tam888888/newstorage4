@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HMS",143108,"/Date(1702884660000)/",31700,200,301,9539400,200,true,0.63
+"HMS",131323,"/Date(1702879980000)/",31700,1,101,3199400,200,true,0.63
+"HMS",95855,"/Date(1702868340000)/",31700,100,100,3170000,200,true,0.63

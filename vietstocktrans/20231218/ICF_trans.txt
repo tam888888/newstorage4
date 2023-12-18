@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ICF",143419,"/Date(1702884840000)/",2300,300,2000,4600000,0,true,0
+"ICF",110206,"/Date(1702872120000)/",2300,1500,1700,3910000,0,true,0
+"ICF",92407,"/Date(1702866240000)/",2300,200,200,460000,0,true,0

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SDU",134244,"/Date(1702881764000)/",19100,3,403,7702200,1600,false,9.14
+"SDU",131326,"/Date(1702880007000)/",19100,300,400,7650000,1600,false,9.14
+"SDU",130014,"/Date(1702879202000)/",19200,100,100,1920000,1700,false,9.71

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158854213,"POS","1702884542","unknown","6000","12400","6000","2023-12-18T07:29:04.097Z","2023-12-18T07:29:04.097Z"

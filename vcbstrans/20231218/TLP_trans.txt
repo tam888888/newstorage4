@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TLP","13:35:33",7.5,0.7,100,100,
