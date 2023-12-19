@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158923296,"LEC","1702954799","s","200","6010","0","2023-12-19T03:00:12.220Z","2023-12-19T03:00:12.220Z"

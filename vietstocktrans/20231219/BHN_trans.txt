@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BHN",144411,"/Date(1702971900000)/",39000,1000,1200,46000000,0,true,0
+"BHN",141620,"/Date(1702970226000)/",38950,100,200,7000000,-50,false,-0.13
+"BHN",94145,"/Date(1702953721000)/",39000,100,100,3000000,0,false,0

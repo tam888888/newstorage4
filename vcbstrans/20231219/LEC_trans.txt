@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"LEC","10:00:09",6.01,-0.19,200,200,"B"

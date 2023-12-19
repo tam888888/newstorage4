@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LAF",91941,"/Date(1702952397000)/",13400,100,100,1000000,400,false,3.08

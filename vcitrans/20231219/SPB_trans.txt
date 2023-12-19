@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158936208,"SPB","1702955230","s","100","20900","100","2023-12-19T03:07:12.230Z","2023-12-19T03:07:12.230Z"

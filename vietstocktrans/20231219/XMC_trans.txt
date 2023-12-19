@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"XMC",143632,"/Date(1702971420000)/",7800,200,1200,9460000,-100,true,-1.27
+"XMC",101416,"/Date(1702955640000)/",7800,500,1000,7900000,-100,true,-1.27
+"XMC",95156,"/Date(1702954320000)/",8000,500,500,4000000,100,false,1.27

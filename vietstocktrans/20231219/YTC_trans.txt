@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"YTC",142237,"/Date(1702970580000)/",128000,4,1005,128640000,8200,false,6.84
+"YTC",142042,"/Date(1702970460000)/",128000,1,1001,128128000,8200,false,6.84
+"YTC",90008,"/Date(1702951200000)/",128000,1000,1000,128000000,8200,false,6.84

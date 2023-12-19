@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VWS","14:55:09",16,-2.5,200,200,

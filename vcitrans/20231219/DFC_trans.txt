@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159066172,"DFC","1702967511","s","2600","17100","2600","2023-12-19T06:31:52.411Z","2023-12-19T06:31:52.411Z"

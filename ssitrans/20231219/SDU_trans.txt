@@ -1,0 +1,7 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"hnx:7204",19500,100,2900,"13:57:07",19100,"unknown",400,2.1,"U","LeTable"
+"hnx:7204",19500,1700,2800,"13:55:04",19100,"bu",400,2.1,"U","LeTable"
+"hnx:7204",19700,200,1100,"13:42:56",19100,"bu",600,3.1,"U","LeTable"
+"hnx:7204",19800,200,900,"13:41:10",19100,"bu",700,3.7,"U","LeTable"
+"hnx:7204",19900,600,700,"13:35:39",19100,"bu",800,4.2,"U","LeTable"
+"hnx:7204",19800,100,100,"13:31:52",19100,"unknown",700,3.7,"U","LeTable"

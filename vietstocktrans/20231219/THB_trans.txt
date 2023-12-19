@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"THB",112053,"/Date(1702959653000)/",11000,100,100,1100000,0,false,0

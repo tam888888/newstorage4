@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CPC",144506,"/Date(1702971901000)/",16900,100,7900,126690000,-100,false,-0.59
+"CPC",95135,"/Date(1702954295000)/",16000,3700,7800,125000000,-1000,false,-5.88
+"CPC",95007,"/Date(1702954207000)/",16000,4100,4100,65800000,-1000,true,-5.88

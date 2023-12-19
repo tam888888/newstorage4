@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MGG",90005,"/Date(1702951200000)/",32500,200,200,6500000,2500,false,8.33

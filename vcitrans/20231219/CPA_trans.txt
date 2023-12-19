@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158896452,"CPA","1702953611","b","500","5400","500","2023-12-19T02:40:12.202Z","2023-12-19T02:40:12.202Z"

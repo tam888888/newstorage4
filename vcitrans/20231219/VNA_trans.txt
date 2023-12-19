@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159044823,"VNA","1702966488","b","100","20000","100","2023-12-19T06:14:50.396Z","2023-12-19T06:14:50.396Z"

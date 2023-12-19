@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158960918,"MQN","1702956210","s","100","24400","100","2023-12-19T03:23:32.245Z","2023-12-19T03:23:32.245Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+158862407,"CBI","1702951926","b","300","6900","300","2023-12-19T02:12:07.178Z","2023-12-19T02:12:07.178Z"

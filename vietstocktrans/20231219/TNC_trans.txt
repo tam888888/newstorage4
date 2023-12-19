@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TNC",144421,"/Date(1702971901000)/",65500,100,300,17000000,4100,true,6.68
+"TNC",142521,"/Date(1702970767000)/",57200,200,200,11000000,-4200,true,-6.84

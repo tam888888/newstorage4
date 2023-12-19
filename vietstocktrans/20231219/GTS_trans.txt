@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GTS",91423,"/Date(1702952040000)/",10000,1000,1000,10000000,0,true,0
