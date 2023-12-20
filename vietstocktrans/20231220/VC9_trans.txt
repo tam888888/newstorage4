@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VC9",144513,"/Date(1703058301000)/",5600,200,700,3790000,0,false,0
+"VC9",130504,"/Date(1703052304000)/",5400,200,500,2670000,-200,true,-3.57
+"VC9",93508,"/Date(1703039708000)/",5300,300,300,1590000,-300,true,-5.36

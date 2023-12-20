@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BHK",132227,"/Date(1703053320000)/",11300,100,100,1130000,1400,false,14.14

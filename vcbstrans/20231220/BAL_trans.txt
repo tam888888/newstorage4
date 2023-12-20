@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BAL","14:28:13",7.7,1,100,100,

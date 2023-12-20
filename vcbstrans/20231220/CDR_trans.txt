@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CDR","09:20:04",4.6,-0.8,500,500,

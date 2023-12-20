@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DTA",134630,"/Date(1703054834000)/",5320,100,300,1000000,-40,false,-0.75
+"DTA",104530,"/Date(1703043953000)/",5300,100,200,1000000,-60,false,-1.12
+"DTA",103303,"/Date(1703043205000)/",5350,100,100,0,-10,false,-0.19

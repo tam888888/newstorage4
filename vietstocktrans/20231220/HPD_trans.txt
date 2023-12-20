@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HPD",103854,"/Date(1703043540000)/",23400,5000,13000,304200000,500,false,2.18
+"HPD",103026,"/Date(1703043000000)/",23400,4000,8000,187200000,500,false,2.18
+"HPD",100925,"/Date(1703041740000)/",23400,4000,4000,93600000,500,false,2.18

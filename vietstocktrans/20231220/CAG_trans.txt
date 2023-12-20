@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAG",135448,"/Date(1703055288000)/",7100,100,2500,17510000,0,false,0
+"CAG",130448,"/Date(1703052288000)/",7000,2400,2400,16800000,-100,true,-1.41

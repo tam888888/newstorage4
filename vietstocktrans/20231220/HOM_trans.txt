@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HOM",144512,"/Date(1703058301000)/",5000,200,2800,13740000,0,false,0
+"HOM",131610,"/Date(1703052970000)/",4900,1100,2600,12740000,-100,false,-2
+"HOM",94821,"/Date(1703040501000)/",4900,1500,1500,7350000,-100,true,-2

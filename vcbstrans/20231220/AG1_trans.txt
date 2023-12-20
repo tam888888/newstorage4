@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"AG1","13:01:24",7.5,0,500,500,

@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VTC",130726,"/Date(1703052445000)/",9400,500,1702,15997800,0,false,0
+"VTC",112343,"/Date(1703046223000)/",9400,2,1202,11297800,0,true,0
+"VTC",100448,"/Date(1703041488000)/",9400,700,1200,11280000,0,false,0
+"VTC",95922,"/Date(1703041162000)/",9400,500,500,4700000,0,false,0

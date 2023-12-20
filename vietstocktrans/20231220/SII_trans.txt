@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SII",100200,"/Date(1703041320000)/",20600,3,503,9941800,200,false,0.98
+"SII",94752,"/Date(1703040480000)/",20600,200,500,9880000,200,true,0.98
+"SII",93251,"/Date(1703039580000)/",19200,300,300,5760000,-1200,true,-5.88

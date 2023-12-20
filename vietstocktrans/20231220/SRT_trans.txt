@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SRT",104140,"/Date(1703043720000)/",5800,700,748,4328800,200,false,3.57

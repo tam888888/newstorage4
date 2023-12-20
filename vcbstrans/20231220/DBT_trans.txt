@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DBT","10:18:50",12.25,0.25,100,100,"S"

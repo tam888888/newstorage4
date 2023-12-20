@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159251368,"GLT","1703041125","s","200","18000","200","2023-12-20T02:58:47.497Z","2023-12-20T02:58:47.497Z"

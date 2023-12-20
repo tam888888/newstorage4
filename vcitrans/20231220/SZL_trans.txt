@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159473687,"SZL","1703058291","unknown","200","37700","200","2023-12-20T07:45:04.932Z","2023-12-20T07:45:04.932Z"

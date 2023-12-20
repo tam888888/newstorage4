@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GSM",135553,"/Date(1703055360000)/",18500,1000,1300,23430000,-100,false,-0.54
+"GSM",134308,"/Date(1703054580000)/",16400,200,300,4930000,-2200,false,-11.83
+"GSM",134255,"/Date(1703054580000)/",16500,100,100,1650000,-2100,false,-11.29

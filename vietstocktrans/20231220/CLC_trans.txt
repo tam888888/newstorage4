@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CLC",101605,"/Date(1703042187000)/",37200,100,3100,112000000,1100,false,3.05
+"CLC",92246,"/Date(1703038982000)/",37300,100,3000,108000000,1200,false,3.32
+"CLC",91939,"/Date(1703038793000)/",36200,2900,2900,104000000,100,true,0.28

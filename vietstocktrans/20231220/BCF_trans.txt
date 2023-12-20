@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BCF",101533,"/Date(1703042133000)/",30400,200,1500,45600000,0,false,0
+"BCF",100321,"/Date(1703041401000)/",30400,1300,1300,39520000,0,true,0

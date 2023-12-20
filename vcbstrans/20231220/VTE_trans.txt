@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VTE","09:37:24",5.5,-0.9,200,200,

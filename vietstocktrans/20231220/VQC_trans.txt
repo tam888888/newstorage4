@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VQC",141959,"/Date(1703056800000)/",14800,500,1100,16200000,800,true,5.71
+"VQC",134956,"/Date(1703055000000)/",14800,500,600,8800000,800,false,5.71
+"VQC",92003,"/Date(1703038800000)/",14000,100,100,1400000,0,false,0

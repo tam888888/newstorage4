@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VFR","09:50:58",12.9,0.5,200,200,

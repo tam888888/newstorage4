@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CMM",143216,"/Date(1703057520000)/",7000,200,1415,10065000,0,false,0
+"CMM",131153,"/Date(1703052720000)/",7000,1,1215,8665000,0,false,0
+"CMM",130014,"/Date(1703052000000)/",7000,414,1214,8658000,0,false,0
+"CMM",90017,"/Date(1703037600000)/",7200,800,800,5760000,200,false,2.86

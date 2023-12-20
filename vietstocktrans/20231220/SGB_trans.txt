@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGB",142533,"/Date(1703057160000)/",12800,200,700,8950000,0,false,0
+"SGB",134204,"/Date(1703054520000)/",12700,100,500,6390000,-100,true,-0.78
+"SGB",131636,"/Date(1703053020000)/",12800,400,400,5120000,0,false,0

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ADC",100120,"/Date(1703041280000)/",18400,500,500,9200000,-100,true,-0.54

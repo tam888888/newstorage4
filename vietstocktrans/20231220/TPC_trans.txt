@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TPC",135759,"/Date(1703055523000)/",5500,700,1000,5000000,-180,true,-3.17
+"TPC",135759,"/Date(1703055523000)/",5500,300,300,1000000,-180,true,-3.17

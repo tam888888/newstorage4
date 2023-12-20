@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CLW","09:15:00",34.65,-2.4,100,100,

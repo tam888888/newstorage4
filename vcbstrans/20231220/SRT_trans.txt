@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SRT","10:41:40",5.8,0.2,700,700,

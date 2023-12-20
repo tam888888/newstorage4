@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BHI",111514,"/Date(1703045700000)/",16500,300,300,4950000,500,false,3.13

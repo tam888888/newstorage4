@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HTC",105730,"/Date(1703044650000)/",22000,100,105,2302500,0,true,0

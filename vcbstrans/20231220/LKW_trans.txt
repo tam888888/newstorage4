@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"LKW","10:40:29",29.9,1.4,100,100,

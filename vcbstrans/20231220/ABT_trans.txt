@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ABT","09:31:40",35,-0.5,100,100,"S"

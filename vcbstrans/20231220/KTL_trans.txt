@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"KTL","09:17:26",23.5,0.5,500,500,
