@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BSQ",132258,"/Date(1703139780000)/",19800,200,200,3960000,0,true,0

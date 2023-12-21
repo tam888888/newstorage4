@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAV",144420,"/Date(1703144700000)/",66900,100,300,20000000,-100,true,-0.15
+"CAV",125949,"/Date(1703138404000)/",66900,200,200,13000000,-100,true,-0.15

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159632873,"CAG","1703139514","s","200","7000","200","2023-12-21T06:18:36.211Z","2023-12-21T06:18:36.211Z"

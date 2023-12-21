@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"IST","14:12:32",30.5,1.9,100,100,

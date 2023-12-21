@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"XMC","13:00:04",8,-0.1,500,500,

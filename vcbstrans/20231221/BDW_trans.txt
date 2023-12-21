@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BDW","09:51:05",18.6,-1.9,100,100,

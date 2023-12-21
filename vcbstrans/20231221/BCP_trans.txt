@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BCP","10:13:09",8,-0.5,100,100,

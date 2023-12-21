@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"XMD","10:50:32",8.3,0,100,100,

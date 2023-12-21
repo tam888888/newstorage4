@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NAS","13:10:03",21.4,1.8,100,100,

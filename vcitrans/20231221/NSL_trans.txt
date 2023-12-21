@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159485477,"NSL","1703125313","b","100","23300","100","2023-12-21T02:21:54.001Z","2023-12-21T02:21:54.001Z"

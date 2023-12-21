@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"UIC","13:32:32",32.5,0.5,500,500,"S"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"PEQ","13:12:35",38.5,0,500,500,

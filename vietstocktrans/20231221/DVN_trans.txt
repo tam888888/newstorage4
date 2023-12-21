@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DVN",145349,"/Date(1703145240000)/",18200,400,900,16380000,-100,false,-0.55
+"DVN",143301,"/Date(1703143980000)/",18200,200,500,9100000,-100,false,-0.55
+"DVN",142450,"/Date(1703143500000)/",18200,300,300,5460000,-100,true,-0.55

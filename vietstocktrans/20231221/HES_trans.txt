@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HES",140004,"/Date(1703142000000)/",18400,100,1700,31280000,0,true,0
+"HES",135813,"/Date(1703141880000)/",18400,300,1600,29440000,0,true,0
+"HES",135554,"/Date(1703141760000)/",18400,1300,1300,23920000,0,true,0

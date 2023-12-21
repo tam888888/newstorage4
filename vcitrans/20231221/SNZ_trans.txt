@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159751778,"SNZ","1703144955","b","100","27500","100","2023-12-21T07:49:16.273Z","2023-12-21T07:49:16.273Z"

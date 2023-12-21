@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HNM",144654,"/Date(1703144820000)/",9200,4400,7500,69020000,0,true,0
+"HNM",135849,"/Date(1703141940000)/",9200,3000,3100,28540000,0,true,0
+"HNM",111931,"/Date(1703132400000)/",9400,100,100,940000,200,false,2.17

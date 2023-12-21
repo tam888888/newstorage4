@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159499449,"CAB","1703125984","b","100","12900","100","2023-12-21T02:33:05.019Z","2023-12-21T02:33:05.019Z"

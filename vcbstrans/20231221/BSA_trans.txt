@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BSA","14:24:34",18.1,0.1,300,300,

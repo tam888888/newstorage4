@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MDC",92908,"/Date(1703125748000)/",11000,500,700,7680000,0,false,0
+"MDC",92749,"/Date(1703125669000)/",10900,200,200,2180000,-100,true,-0.91

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ATS",93348,"/Date(1703126028000)/",19800,200,600,11120000,1000,true,5.32
+"ATS",92313,"/Date(1703125392000)/",18800,200,400,7160000,0,false,0
+"ATS",92146,"/Date(1703125305000)/",17000,200,200,3400000,-1800,false,-9.57

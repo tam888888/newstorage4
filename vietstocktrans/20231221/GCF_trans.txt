@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GCF",134303,"/Date(1703140980000)/",14000,2900,3000,41920000,0,false,0
+"GCF",132405,"/Date(1703139840000)/",13200,100,100,1320000,-800,true,-5.71

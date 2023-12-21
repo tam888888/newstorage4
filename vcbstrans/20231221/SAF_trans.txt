@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SAF","14:12:47",46,-4.9,100,100,

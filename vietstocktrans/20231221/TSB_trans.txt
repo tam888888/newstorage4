@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TSB",144515,"/Date(1703144701000)/",44100,300,600,26700000,-900,false,-2
+"TSB",135004,"/Date(1703141404000)/",44900,100,300,13470000,-100,false,-0.22
+"TSB",130008,"/Date(1703138401000)/",45000,200,200,8980000,0,false,0

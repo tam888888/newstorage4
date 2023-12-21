@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+159639609,"BSQ","1703139778","s","200","19800","200","2023-12-21T06:22:59.195Z","2023-12-21T06:22:59.195Z"
