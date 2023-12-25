@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160217727,"SMA","1703478016","b","600","8280","0","2023-12-25T04:20:29.288Z","2023-12-25T04:20:29.288Z"

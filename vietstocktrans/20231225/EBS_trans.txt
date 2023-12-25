@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EBS",144512,"/Date(1703490301000)/",11500,100,100,1150000,600,false,5.5

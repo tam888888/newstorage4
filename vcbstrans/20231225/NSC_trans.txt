@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NSC","09:30:29",69.5,0.3,300,300,"S"

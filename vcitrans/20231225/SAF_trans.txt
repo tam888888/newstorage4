@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160264387,"SAF","1703485736","unknown","100","48900","100","2023-12-25T06:28:57.415Z","2023-12-25T06:28:57.415Z"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DAT","13:26:06",9.15,0.15,100,100,"S"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TN1","13:00:10",15.5,-0.25,100,100,"B"

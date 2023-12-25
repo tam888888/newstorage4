@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BLT",141441,"/Date(1703488500000)/",34500,1,402,13856400,500,true,1.47
+"BLT",104049,"/Date(1703475660000)/",34500,300,401,13821400,500,false,1.47
+"BLT",100750,"/Date(1703473680000)/",34400,100,101,3471400,400,false,1.18

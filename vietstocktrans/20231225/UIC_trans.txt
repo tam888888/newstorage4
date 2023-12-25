@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"UIC",135851,"/Date(1703487575000)/",32000,800,1100,35000000,150,false,0.47
+"UIC",135734,"/Date(1703487499000)/",32000,200,300,9000000,150,true,0.47
+"UIC",102421,"/Date(1703474682000)/",32000,100,100,3000000,150,true,0.47

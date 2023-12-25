@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MTL",142808,"/Date(1703489280000)/",4700,1000,1400,6580000,0,false,0
+"MTL",132537,"/Date(1703485560000)/",4700,100,400,1880000,0,false,0
+"MTL",132457,"/Date(1703485500000)/",4700,300,300,1410000,0,false,0

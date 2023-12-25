@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GND","09:01:56",27.9,0.5,200,200,

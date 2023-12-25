@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NDX",103942,"/Date(1703475581000)/",6500,100,1200,7580000,200,false,3.17
+"NDX",100441,"/Date(1703473481000)/",6300,100,1100,6930000,0,false,0
+"NDX",100057,"/Date(1703473257000)/",6300,1000,1000,6300000,0,true,0

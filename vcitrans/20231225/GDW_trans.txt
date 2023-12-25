@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160251202,"GDW","1703485269","s","300","28500","300","2023-12-25T06:21:11.396Z","2023-12-25T06:21:11.396Z"
