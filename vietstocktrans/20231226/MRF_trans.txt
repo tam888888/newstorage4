@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MRF",104557,"/Date(1703562360000)/",23900,100,3800,105990000,-4100,true,-14.64
+"MRF",104514,"/Date(1703562300000)/",28000,3700,3700,103600000,0,false,0

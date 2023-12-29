@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SJC",140955,"/Date(1703833800000)/",12400,500,2500,34710000,-2100,false,-14.48
+"SJC",112845,"/Date(1703824140000)/",12400,100,2000,28510000,-2100,true,-14.48
+"SJC",103623,"/Date(1703820960000)/",14400,1900,1900,27270000,-100,false,-0.69

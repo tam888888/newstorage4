@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160514617,"BSA","1703562323","s","1000","18300","1000","2023-12-26T03:45:25.342Z","2023-12-26T03:45:25.342Z"

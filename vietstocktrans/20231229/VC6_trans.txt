@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VC6",130431,"/Date(1703829870000)/",12200,100,1200,13580000,700,false,6.09
+"VC6",130020,"/Date(1703829603000)/",11600,100,1100,12360000,100,false,0.87
+"VC6",91248,"/Date(1703815968000)/",11200,1000,1000,11200000,-300,false,-2.61

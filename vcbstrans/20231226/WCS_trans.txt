@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"WCS","14:45:02",179.9,-4.1,100,100,

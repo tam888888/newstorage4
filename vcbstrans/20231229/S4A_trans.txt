@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"S4A","14:19:39",33.6,-0.4,700,700,"B"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SFG",144510,"/Date(1703749501000)/",8200,300,600,4000000,0,true,0
+"SFG",143005,"/Date(1703748597000)/",8200,200,300,2000000,0,true,0
+"SFG",141934,"/Date(1703747974000)/",8200,100,100,0,0,false,0

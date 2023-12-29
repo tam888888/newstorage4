@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MIC",90307,"/Date(1703815380000)/",15900,100,100,1590000,2000,false,14.39

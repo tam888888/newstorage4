@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MQN",140817,"/Date(1703747280000)/",18700,200,600,11220000,0,false,0
+"MQN",100917,"/Date(1703732940000)/",18700,400,400,7480000,0,false,0

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161403201,"SDU","1703817803","b","100","17800","100","2023-12-29T02:43:24.850Z","2023-12-29T02:43:24.850Z"

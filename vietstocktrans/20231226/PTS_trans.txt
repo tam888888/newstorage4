@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTS",94524,"/Date(1703558724000)/",8600,100,4200,35300000,200,false,2.38
+"PTS",93345,"/Date(1703558025000)/",8400,2000,4100,34440000,0,true,0
+"PTS",93106,"/Date(1703557866000)/",8400,2100,2100,17640000,0,true,0

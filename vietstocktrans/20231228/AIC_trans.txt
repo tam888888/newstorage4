@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AIC",95053,"/Date(1703731860000)/",14800,500,1500,22250000,-200,false,-1.33
+"AIC",93652,"/Date(1703731020000)/",14800,500,1000,14850000,-200,true,-1.33
+"AIC",90856,"/Date(1703729340000)/",14900,500,500,7450000,-100,true,-0.67

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161534722,"SC5","1703829932","b","2000","19000","2000","2023-12-29T06:05:46.031Z","2023-12-29T06:05:46.031Z"

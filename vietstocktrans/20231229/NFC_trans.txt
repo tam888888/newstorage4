@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NFC",101728,"/Date(1703819848000)/",19000,100,100,1900000,100,false,0.53

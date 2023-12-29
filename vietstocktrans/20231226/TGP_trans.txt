@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TGP",110015,"/Date(1703563200000)/",4500,17,417,1926500,0,true,0
+"TGP",95113,"/Date(1703559060000)/",4500,300,400,1850000,0,true,0
+"TGP",92137,"/Date(1703557320000)/",5000,100,100,500000,500,false,11.11

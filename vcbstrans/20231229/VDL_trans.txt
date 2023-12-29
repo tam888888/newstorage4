@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VDL","13:55:45",17.5,1.5,300,300,

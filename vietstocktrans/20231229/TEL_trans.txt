@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TEL",142635,"/Date(1703834820000)/",12800,3000,3000,38400000,0,true,0

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SPB",130450,"/Date(1703743500000)/",15500,100,300,4890000,-2300,false,-12.92
+"SPB",130016,"/Date(1703743200000)/",16600,100,200,3340000,-1200,false,-6.74
+"SPB",112707,"/Date(1703737620000)/",16800,100,100,1680000,-1000,true,-5.62

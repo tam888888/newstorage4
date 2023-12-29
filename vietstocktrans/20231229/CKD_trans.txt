@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CKD",143152,"/Date(1703835120000)/",23700,400,400,9490000,-200,true,-0.84

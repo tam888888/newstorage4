@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KCE",110443,"/Date(1703736300000)/",7900,600,600,4740000,-200,false,-2.47

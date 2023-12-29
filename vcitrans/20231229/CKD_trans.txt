@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161679264,"CKD","1703835112","s","400","23700","400","2023-12-29T07:31:54.108Z","2023-12-29T07:31:54.108Z"

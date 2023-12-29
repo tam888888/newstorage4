@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161667347,"TEL","1703834795","s","3000","12800","3000","2023-12-29T07:26:37.114Z","2023-12-29T07:26:37.114Z"

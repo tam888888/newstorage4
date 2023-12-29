@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SZG",144932,"/Date(1703749800000)/",36000,400,600,21600000,-400,true,-1.1
+"SZG",131333,"/Date(1703744040000)/",36000,100,200,7200000,-400,true,-1.1
+"SZG",131141,"/Date(1703743920000)/",36000,100,100,3600000,-400,true,-1.1

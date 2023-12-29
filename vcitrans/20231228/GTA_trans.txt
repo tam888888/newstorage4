@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161039479,"GTA","1703730090","b","100","14900","0","2023-12-28T02:21:42.153Z","2023-12-28T02:21:42.153Z"

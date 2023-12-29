@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NBW",100035,"/Date(1703732435000)/",23000,300,2000,46000000,0,false,0
+"NBW",100022,"/Date(1703732422000)/",23000,1500,1700,39100000,0,false,0
+"NBW",92951,"/Date(1703730591000)/",23000,100,200,4600000,0,false,0
+"NBW",92834,"/Date(1703730513000)/",23000,100,100,2300000,0,false,0

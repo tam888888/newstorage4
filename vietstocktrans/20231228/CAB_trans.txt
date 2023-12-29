@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAB",133035,"/Date(1703745060000)/",12000,100,1101,13212500,0,false,0
+"CAB",132942,"/Date(1703745000000)/",12000,1,1001,12012500,0,false,0
+"CAB",94106,"/Date(1703731260000)/",12000,800,1000,12000000,0,false,0
+"CAB",90046,"/Date(1703728800000)/",12000,200,200,2400000,0,false,0

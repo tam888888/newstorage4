@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VNY",92412,"/Date(1703730240000)/",5900,100,1200,6780000,700,false,13.46
+"VNY",92050,"/Date(1703730060000)/",5900,100,1100,6190000,700,false,13.46
+"VNY",90613,"/Date(1703729160000)/",5600,1000,1000,5600000,400,false,7.69

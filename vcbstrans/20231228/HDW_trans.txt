@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HDW","09:40:42",12.4,-0.1,200,200,

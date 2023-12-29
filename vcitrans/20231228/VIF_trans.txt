@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161330653,"VIF","1703748147","b","300","17700","300","2023-12-28T07:22:28.425Z","2023-12-28T07:22:28.425Z"

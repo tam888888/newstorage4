@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161680143,"HJS","1703835906","unknown","20000","44500","20000","2023-12-29T07:45:10.126Z","2023-12-29T07:45:10.126Z"
+161679393,"HJS","1703835267","unknown","0","40100","0","2023-12-29T07:34:28.108Z","2023-12-29T07:34:28.108Z"

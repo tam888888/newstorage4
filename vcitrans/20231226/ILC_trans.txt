@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160501522,"ILC","1703561559","b","100","6200","100","2023-12-26T03:32:39.302Z","2023-12-26T03:32:39.302Z"

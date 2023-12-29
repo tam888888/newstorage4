@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161680441,"VBC","1703835914","unknown","500","22000","500","2023-12-29T07:45:19.133Z","2023-12-29T07:45:19.133Z"
+161679881,"VBC","1703835859","b","0","22000","0","2023-12-29T07:44:21.122Z","2023-12-29T07:44:21.122Z"

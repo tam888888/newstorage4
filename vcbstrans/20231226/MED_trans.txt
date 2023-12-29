@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MED","13:59:13",27,0.5,700,700,

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SAP",130544,"/Date(1703743560000)/",31900,100,200,6380000,-500,false,-1.54
+"SAP",112319,"/Date(1703737380000)/",31900,100,100,3190000,-500,true,-1.54

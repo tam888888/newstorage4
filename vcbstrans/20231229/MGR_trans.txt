@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MGR","11:15:44",6.3,0.6,100,100,

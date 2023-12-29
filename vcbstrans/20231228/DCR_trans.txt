@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DCR","10:46:44",6.6,0.2,100,100,

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NAP",130021,"/Date(1703570405000)/",12200,100,300,3650000,900,false,7.96
+"NAP",105858,"/Date(1703563138000)/",12100,100,200,2430000,800,true,7.08
+"NAP",94233,"/Date(1703558554000)/",12200,100,100,1220000,900,false,7.96

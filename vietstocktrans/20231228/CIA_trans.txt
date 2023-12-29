@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CIA",142452,"/Date(1703748292000)/",9800,1300,2050,20150000,-100,false,-1.01
+"CIA",103119,"/Date(1703734278000)/",9900,50,750,7410000,0,false,0
+"CIA",101812,"/Date(1703733492000)/",9900,200,700,6930000,0,false,0
+"CIA",93759,"/Date(1703731079000)/",9900,500,500,4950000,0,false,0

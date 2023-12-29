@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HTV",132036,"/Date(1703571612000)/",9800,100,300,2000000,0,false,0
+"HTV",131727,"/Date(1703571425000)/",9520,100,200,1000000,-280,false,-2.86
+"HTV",131727,"/Date(1703571425000)/",9530,100,100,0,-270,false,-2.76

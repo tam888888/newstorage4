@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161411718,"BSG","1703818214","unknown","800","12300","800","2023-12-29T02:50:16.856Z","2023-12-29T02:50:16.856Z"

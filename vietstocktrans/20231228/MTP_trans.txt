@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MTP",102613,"/Date(1703733960000)/",10900,100,4200,45780000,1100,false,11.22
+"MTP",100229,"/Date(1703732520000)/",10900,100,4100,44690000,1100,false,11.22
+"MTP",92257,"/Date(1703730180000)/",10900,4000,4000,43600000,1100,false,11.22

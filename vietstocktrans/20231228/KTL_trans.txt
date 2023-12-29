@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KTL",90037,"/Date(1703728800000)/",48000,3000,3000,144000000,5600,false,13.21

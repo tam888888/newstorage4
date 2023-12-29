@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MH3",142208,"/Date(1703834520000)/",36000,100,400,13860000,800,false,2.27
+"MH3",112806,"/Date(1703824080000)/",34200,300,300,10260000,-1000,true,-2.84

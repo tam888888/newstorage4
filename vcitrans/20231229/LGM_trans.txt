@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161624875,"LGM","1703833534","s","330000","15000","330000","2023-12-29T07:05:36.119Z","2023-12-29T07:05:36.119Z"

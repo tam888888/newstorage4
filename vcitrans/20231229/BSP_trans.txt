@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161543320,"BSP","1703830349","unknown","800","12500","800","2023-12-29T06:12:30.043Z","2023-12-29T06:12:30.043Z"

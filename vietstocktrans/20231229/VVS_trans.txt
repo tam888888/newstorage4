@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VVS",101241,"/Date(1703819580000)/",16500,500,1500,27300000,-2000,false,-10.81
+"VVS",92009,"/Date(1703816400000)/",19500,1000,1000,19050000,1000,false,5.41

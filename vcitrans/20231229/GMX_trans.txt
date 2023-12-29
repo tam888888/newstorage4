@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161657749,"GMX","1703834566","b","100","18700","100","2023-12-29T07:22:47.115Z","2023-12-29T07:22:47.115Z"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TDB","14:23:15",39,-0.3,100,100,

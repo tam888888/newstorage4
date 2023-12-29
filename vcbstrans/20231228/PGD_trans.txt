@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"PGD","13:38:52",37.8,0,300,300,"B"

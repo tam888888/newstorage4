@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161134741,"RAT","1703735525","b","200","15000","200","2023-12-28T03:52:07.228Z","2023-12-28T03:52:07.228Z"

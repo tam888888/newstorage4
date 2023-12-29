@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CFM",130043,"/Date(1703743260000)/",8500,100,300,2560000,400,true,4.94
+"CFM",130031,"/Date(1703743200000)/",8600,100,200,1710000,500,true,6.17
+"CFM",101610,"/Date(1703733360000)/",8500,100,100,850000,400,false,4.94

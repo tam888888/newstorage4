@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"AGP","14:13:34",26,0,700,700,

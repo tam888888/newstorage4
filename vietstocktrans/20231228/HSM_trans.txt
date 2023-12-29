@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HSM",131613,"/Date(1703744160000)/",6300,1500,4700,29620000,-1000,false,-13.7
+"HSM",131307,"/Date(1703743980000)/",6300,2000,3200,20170000,-1000,false,-13.7
+"HSM",131154,"/Date(1703743920000)/",6300,1200,1200,7570000,-1000,false,-13.7

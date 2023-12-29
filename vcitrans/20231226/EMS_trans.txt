@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160618926,"EMS","1703572889","b","300","21900","300","2023-12-26T06:41:30.461Z","2023-12-26T06:41:30.461Z"

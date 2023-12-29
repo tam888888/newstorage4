@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160655154,"VC6","1703574287","s","100","11300","100","2023-12-26T07:04:48.466Z","2023-12-26T07:04:48.466Z"

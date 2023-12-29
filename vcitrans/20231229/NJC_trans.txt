@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161364362,"NJC","1703815651","b","100","20700","100","2023-12-29T02:07:32.823Z","2023-12-29T02:07:32.823Z"

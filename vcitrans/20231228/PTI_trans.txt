@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161362485,"PTI","1703749510","unknown","300","40000","300","2023-12-28T07:45:13.431Z","2023-12-28T07:45:13.431Z"
+161361463,"PTI","1703748602","b","0","41000","0","2023-12-28T07:30:04.434Z","2023-12-28T07:30:04.434Z"

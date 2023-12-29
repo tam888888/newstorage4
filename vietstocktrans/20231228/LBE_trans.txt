@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LBE",144508,"/Date(1703749501000)/",22100,100,100,2210000,1200,true,5.74

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SVI","14:16:24",57,0.3,2000,2000,"B"

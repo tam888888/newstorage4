@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"APC",144507,"/Date(1703749500000)/",9390,500,1500,13000000,290,false,3.19
+"APC",132821,"/Date(1703744909000)/",9100,700,1000,9000000,0,false,0
+"APC",130755,"/Date(1703743682000)/",9100,200,300,2000000,0,false,0
+"APC",111500,"/Date(1703736897000)/",9100,100,100,0,0,true,0

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NBP","10:49:36",13,0.2,200,200,

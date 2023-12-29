@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+160713301,"HMR","1703576711","unknown","100","8100","100","2023-12-26T07:45:15.506Z","2023-12-26T07:45:15.506Z"
+160712848,"HMR","1703576695","s","0","8100","0","2023-12-26T07:44:56.491Z","2023-12-26T07:44:56.491Z"

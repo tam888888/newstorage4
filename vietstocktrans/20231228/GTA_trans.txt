@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GTA",92144,"/Date(1703730100000)/",14900,100,100,1000000,300,false,2.05

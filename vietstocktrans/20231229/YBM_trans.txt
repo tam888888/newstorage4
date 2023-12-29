@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"YBM",140145,"/Date(1703833317000)/",8750,100,100,0,-350,true,-3.85
